@@ -1,6 +1,8 @@
+package Factory.Example01;
+
 /**
 * This main file shows the use of the factory method pattern.
-*  @auhor Ulises Becerril Valdés
+*  @author Ulises Becerril Valdés
 *  @date 27/05/2026
 */
 public class Main{

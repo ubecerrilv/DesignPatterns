@@ -1,3 +1,5 @@
+package Factory.Example01;
+
 class ProductB implements Product {
 	@Override
 	public void doSomething () {

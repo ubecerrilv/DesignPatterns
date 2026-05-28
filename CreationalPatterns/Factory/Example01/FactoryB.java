@@ -1,3 +1,5 @@
+package Factory.Example01;
+
 class FactoryB extends Factory {
 	
 	@Override

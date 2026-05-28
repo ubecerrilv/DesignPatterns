@@ -1,3 +1,5 @@
+package Factory.Example02;
+
 class ProductA extends Product {
 	ProductA(String id) {
 		this.id = id;
