@@ -1,4 +1,4 @@
-package Factory.Example02;
+package CreationalPatterns.Factory.Example02;
 
 import java.util.HashMap;
 import java.util.Map;

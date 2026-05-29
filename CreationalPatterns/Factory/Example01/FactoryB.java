@@ -1,4 +1,4 @@
-package Factory.Example01;
+package CreationalPatterns.Factory.Example01;
 
 class FactoryB extends Factory {
 	

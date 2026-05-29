@@ -1,4 +1,4 @@
-package Factory.Example02;
+package CreationalPatterns.Factory.Example02;
 
 /**
 * This main file shows the use of the factory method pattern to reuse existing objects.

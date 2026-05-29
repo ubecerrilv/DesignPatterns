@@ -1,4 +1,4 @@
-package Factory.Example01;
+package CreationalPatterns.Factory.Example01;
 
 /**
 * This main file shows the use of the factory method pattern.

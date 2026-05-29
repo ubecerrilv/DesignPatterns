@@ -1,4 +1,4 @@
-package Factory.Example02;
+package CreationalPatterns.Factory.Example02;
 
 class ProductA extends Product {
 	ProductA(String id) {
